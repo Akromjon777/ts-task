@@ -1,0 +1,4 @@
+server run // npm run dev
+production run // npm run start
+bulid run // tsc
+
